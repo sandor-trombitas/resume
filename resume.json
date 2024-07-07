@@ -126,10 +126,25 @@
       "name": "Systems Programming"
     }
   ],
+  "certificates": [
+    {
+      "name": "Camebridge Certificate in Advanced English - C2 Level",
+      "issuer": "University of Camebridge",
+      "date": "2010-05-13"
+    }
+  ],
   "languages": [
     {
       "language": "English",
-      "fluency": "CEFR C2"
+      "fluency": "Native"
+    },
+    {
+      "language": "Romanian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Hungarian",
+      "fluency": "Native"
     }
   ],
   "interests": [
