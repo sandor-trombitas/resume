@@ -1,0 +1,141 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "professional"
+  },
+  "basics": {
+    "name": "Imre-Sandor Trombitas",
+    "label": "Programmer",
+    "image": "",
+    "email": "tis.sandor@gmail.com",
+    "phone": "(+40) 773 954 699",
+    "url": "http://1d6.dev",
+    "summary": "I'm Trombitas Sandor, a full-stack web developer based in Cluj-Napoca. I've been building applications on the web for over 10 years, working with clients across various countries and industries. I strive to enhance the web by creating performant and accessible interfaces for users.",
+    "location": {
+      "address": "Str. Aurel Vlaicu 38",
+      "postalCode": "400581",
+      "city": "Cluj-Napoca",
+      "countryCode": "RO",
+      "region": "Cluj"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Snyk",
+      "location": "Cluj-Napoca, RO",
+      "description": "Cybersecurity company specializing in cloud computing",
+      "position": "Senior Software Engineer",
+      "url": "https://snyk.io",
+      "startDate": "2024-06-17",
+      "summary": "Snyk gives you the visibility, context, and control you need to work alongside developers on reducing application risk.",
+      "highlights": [
+        "Learning application development in golang and typescript as well as learning about cloud security",
+        "Worked on the Snyk CLI, a tool that helps developers find and fix vulnerabilities in their projects",
+        "Worked with Shapeup methodology, learned how to write pitches and robust specs for new features",
+        "Learned how to work with a remote first mindset and how to communicate effectively with a distributed team"
+      ]
+    },
+    {
+      "name": "Pentalog",
+      "location": "Cluj-Napoca, RO",
+      "description": "Global IT Service Platform serving start-ups and larger established companies with technological services",
+      "position": "Full Stack Developer",
+      "url": "https://www.pentalog.com/",
+      "startDate": "2018-02-08",
+      "endDate": "2024-06-14",
+      "summary": "I worked as a full-stack developer at Pentalog, building web applications for clients in various industries.",
+      "highlights": [
+        "Migrated a monolithic application to a microservices architecture",
+        "Created an auth platform that implemented multiple authentication protocols",
+        "Worked with a cloud native stack, including Docker, and AWS",
+        "Learned how to work with a data driven approach to software development and observability first mindset"
+      ]
+    },
+    {
+      "name": "3Pillar Global",
+      "location": "Cluj-Napoca, RO",
+      "description": "Software development and consulting company",
+      "position": "Full Stack Developer",
+      "url": "https://www.3pillarglobal.com/",
+      "startDate": "2017-04",
+      "endDate": "2018-02",
+      "summary": "I worked as a full-stack accessiblity developer, building accessible and WCAG compliant web applications",
+      "highlights": [
+        "Worked on a project that required WCAG 2 compliance",
+        "Learned how to work with an accessibility first mindset and how to build accessible web applications",
+        "Learned how to work with various accessibility tools"
+      ]
+    },
+    {
+      "name": "Msg systems Romania",
+      "location": "Cluj-Napoca, RO",
+      "position": "Developer",
+      "startDate": "2013-07",
+      "endDate": "2016-05",
+      "summary": "My role at msg systems involved developing new features for SAP systems, providing technical support, fixing bugs, migrating databases, and maintaining system operations.",
+      "highlights": [
+        "Developed new features for SAP systems",
+        "Provided technical support",
+        "Managed and optimized ETL processes during database migrations while maintaining system operations and ensuring bug-free software delivery"
+      ]
+    },
+    {
+      "name": "NSN - Nokia Solutions and Networks",
+      "location": "Budapest, Hungary",
+      "position": "Cooperative Education Student",
+      "startDate": "2012-07",
+      "endDate": "2012-09",
+      "summary": "As a Cooperative Education Student at NSN, I worked on application development using full stack MVC frameworks, gaining foundational experience in software engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Babeș-Bolyai University",
+      "url": "https://www.cs.ubbcluj.ro/",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["HTML", "CSS", "Javascript / Typescript", "React / Next"],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node.js", "Deno", "Bun", "Postgres", "Redis", "Serverless"],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Docker", "AWS", "GCP", "Cloudflare", "Netlify"],
+      "level": "Senior",
+      "name": "Cloud"
+    },
+    {
+      "keywords": ["Agile", "Scrum", "Kanban", "Shapeup", "Remote First"],
+      "level": "Senior",
+      "name": "Methodologies"
+    },
+    {
+      "keywords": ["golang", "rust", "grpc"],
+      "level": "Intermediate",
+      "name": "Systems Programming"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "CEFR C2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": ["Landscape", "Urban", "Street", "Photojournalism"]
+    }
+  ]
+}
