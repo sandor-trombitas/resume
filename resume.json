@@ -101,12 +101,20 @@
   ],
   "skills": [
     {
-      "keywords": ["HTML", "CSS", "Javascript / Typescript", "React / Next"],
+      "keywords": ["HTML", "CSS", "Javascript", "Typescript", "React"],
       "level": "Senior",
       "name": "Frontend"
     },
     {
-      "keywords": ["Node.js", "Deno", "Bun", "Postgres", "Redis", "Serverless"],
+      "keywords": [
+        "Node.js",
+        "Deno",
+        "Bun",
+        "Next",
+        "Postgres",
+        "Redis",
+        "Serverless"
+      ],
       "level": "Senior",
       "name": "Backend"
     },
@@ -121,8 +129,8 @@
       "name": "Methodologies"
     },
     {
-      "keywords": ["golang", "rust", "grpc"],
-      "level": "Intermediate",
+      "keywords": ["golang", "rust"],
+      "level": "Still learning",
       "name": "Systems Programming"
     }
   ],
